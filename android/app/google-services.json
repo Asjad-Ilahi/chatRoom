@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "665346773914",
+    "project_id": "chatroom-c5730",
+    "storage_bucket": "chatroom-c5730.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665346773914:android:1d638ccd259b000dbce023",
+        "android_client_info": {
+          "package_name": "com.example.trictux_chatroom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaoc1ik1z1yiP6iOT3bX479F47OiK3Y7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
